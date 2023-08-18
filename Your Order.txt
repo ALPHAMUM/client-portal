@@ -1,0 +1,10 @@
+Your Order
+    List of Orders
+    Date
+    Order #
+    Amount
+    Status
+        Order # {number}
+        company
+        Status
+        Order Details | Items | Related Transaction

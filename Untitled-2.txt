@@ -1,0 +1,17 @@
+OAuth oauth_realm="5184893_SB1",
+ oauth_consumer_key="b616e75c102e747c30069b28e428dc7a497cd5fe91102847661623b289bed1af",
+ oauth_token="d9285ba2aa65766fac142c4d51c0aa3ecdc4ebfd1d47298b0b0e7415c4cb2a87",
+ oauth_signature_method="HMAC-SHA256",
+ oauth_timestamp="1690341281",
+ oauth_nonce="4b2371f057d269a1fba07151cbd76062",
+ oauth_signature="%2FjUbPVz9FuNCERe4ePwEHjNKEOM%3D",
+ oauth_version="1.0
+
+ OAuth realm="5184893_SB1",
+ oauth_consumer_key="b616e75c102e747c30069b28e428dc7a497cd5fe91102847661623b289bed1af",
+ oauth_token="d9285ba2aa65766fac142c4d51c0aa3ecdc4ebfd1d47298b0b0e7415c4cb2a87",
+ oauth_signature_method="HMAC-SHA256",
+ oauth_timestamp="1690339222",
+ oauth_nonce="lHxwK0gqc92",
+ oauth_version="1.0",
+ oauth_signature="TdAkeR%2B8nvYKsZh9f3YBKY5hZNIGwS9yiKAVRLXt9%2Fc%3D"
